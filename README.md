@@ -13,6 +13,8 @@ Contents as follows:
 5. Data visualisation and analysis
 6. Conclusions and Summary
 
+Written in Jupyter Notebooks using python, pandas, numpy, matplotlib, seaborn packages.
+
 ### Data used 
 
 Found on Kaggle Databases (https://www.kaggle.com/datasets/souvikahmed071/social-media-and-mental-health/data)
